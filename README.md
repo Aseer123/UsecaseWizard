@@ -66,7 +66,7 @@ Create a `.env` file in your project root (same folder as `app.py`) and paste:
 HF_TOKEN=your_token_here
 ```
 
-🔒 **Note**: Never share this token publicly or commit it to version control.
+🔒 **Note**: Never share this token publicly.
 
 #### Step 4: You're Ready!
 
