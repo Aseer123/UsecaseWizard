@@ -141,4 +141,4 @@ Special thanks to UST and the organizing team for creating this opportunity to i
 
 ## ✍️ Author
 
-\[Shaik Aseeruddin | UID: 287966] – \[shaik.aseeruddin@ust.com]
+\[Shaik Aseeruddin | UID: 287966] – \[shaik.aseeruddin@ust.com][personal- aseeruddin317@gmail.com]
