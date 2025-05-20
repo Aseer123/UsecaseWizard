@@ -1,0 +1,7 @@
+{
+  "domain": "Healthcare",
+  "persona": "Hospital Administrator",
+  "pain_point": "manual data entry",
+  "constraints": "HIPAA compliance",
+  "output": "1. Agentic AI for automated patient intake, gathering symptoms, and scheduling appointments.\n2. AI assistant for doctors that summarizes patient history and suggests next steps.\n3. AI-powered compliance agent to ensure hospital procedures follow regulations."
+}
